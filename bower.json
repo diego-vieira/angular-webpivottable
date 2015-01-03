@@ -1,0 +1,26 @@
+{
+  "name": "angular-webpivottable",
+  "main": "angular-webpivottable.js",
+  "version": "0.0.1",
+  "homepage": "https://github.com/diego-vieira/angular-webpivottable",
+  "authors": [
+    "Diego Vieira <diego@sv2.com.br>"
+  ],
+  "description": "Directive to be used with WebPivotTable from brigth-sea.",
+  "keywords": [
+    "angular",
+    "webpivottable",
+    "angular-webpivottable"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "webpivottable": "~2.6.0"
+  }
+}
